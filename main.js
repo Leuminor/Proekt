@@ -52,6 +52,3 @@ function updateClass() {
 
 updateClass();
 
-window.addEventListener("resize", updateClass);
-window.addEventListener("resize", initSwiper);
-window.addEventListener("DOMContentLoaded", initSwiper);
